@@ -1,6 +1,6 @@
 - 👋 Hola, yo soy @VommaroNicolas
 - 👀 Yo estoy interesado en la Programacion y el Diseño Web
-- 🌱 Ahora estyo aprendendiendo un poco de PhP
+- 🌱 Ahora estoy aprendendiendo un poco de PhP
 - 💞️ Estoy buscando colaborar en PhP MYSQL
 - 📫 Me pueden contactar mediante mi mail personal, "nicovommaro02@gmail.com"
 
