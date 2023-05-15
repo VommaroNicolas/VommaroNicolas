@@ -1,0 +1,45 @@
+{
+	"_id": ObjectID(),
+	"name": "Mobile",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"]
+	"section": "mobile"
+}
+{
+	"_id": ObjectID(),
+	"name": "LandingPage",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"]
+	"section": "mobile"
+}
+{
+	"_id": ObjectID(),
+	"name": "WebApp",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"]
+	"section": "mobile"
+}
+{
+	"_id": ObjectID(),
+	"name": "E-Commerce",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"]
+	"section": "mobile"
+}
+{
+	"_id": ObjectID(),
+	"name": "Games",
+	"description": "Descripcion del proyecto",
+	"link": "http://miweb.com/proyecto",
+	"img": "https://picsum.photos/400/225",
+	"technologies": ["PHP", "Vue", "Laravel"]
+	"section": "mobile"
+}
